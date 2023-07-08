@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-srinivas91&show_icons=true&locale=en&layout=compact" alt="sai-srinivas91" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-srinivas91&show_icons=true&locale=en" alt="sai-srinivas91" /></p>
+
