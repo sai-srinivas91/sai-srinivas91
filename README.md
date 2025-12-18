@@ -1,11 +1,7 @@
-![MasterHead](https://blog.voyancehq.com/hubfs/ML%20copy.jpg)
-
 <h1 align="center">Hi 👋, I'm Datta Sai Srinivas Baswa</h1>
 <h3 align="center">
 Data Engineer | AWS | Distributed Data Systems
 </h3>
-
-<img align="right" alt="Data Engineering" width="400" src="https://www.nyc.gov.sg/omw-api/CMS/Uploads/Job/AIML_Engineer-280421052519.png"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sai-srinivas91&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
